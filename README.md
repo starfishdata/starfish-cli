@@ -75,11 +75,11 @@ starfishdata generate --prompt "Topic" --num-records 5
 ```bash
 starfishdata download --hf-token <YOUR_HF_TOKEN>
 ```
-| Flag | Description | Required |
-|------|------------|----------|
-| `--name` | Hugging Face model name | ✅ |
-| `--file` | GGUF model file | ✅ |
-| `--hf-token` | Hugging Face API Token | ✅ |
+| Flag | Description | 
+|------|------------|
+| `--name` | Hugging Face model name |
+| `--file` | GGUF model file |
+| `--hf-token` | Hugging Face API Token |
 
 ---
 
